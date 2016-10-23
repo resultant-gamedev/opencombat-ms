@@ -1,2 +1,2 @@
-# opencombat-ms
-OpenCombat Master Server
+# OpenCombat Master Server
+Master Server for OpenCombat.
