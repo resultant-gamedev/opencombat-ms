@@ -73,4 +73,6 @@ if ($do == 'register')
 	exit();
 }
 
+echo $pages['404'];
+exit();
 ?>
